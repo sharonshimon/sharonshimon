@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi there, I'm Sharon Shimon 👋<br><br>I'm a 3rd-year Computer Science student at the Holon Institute of Technology (HIT), passionate about machine learning, data science, software engineering, and DevOps. I enjoy blending analytical thinking with practical solutions and thrive on projects that challenge me to learn and grow<br><br>🔭 I’m currently working on exploring new projects involving DevOps, cloud computing, and backend development.<br><br>👯 I’m looking to collaborate on projects that involve machine learning, backend systems, or DevOps automation.<br><br>🤝 I’m looking for help with advanced Kubernetes deployment strategies and cloud infrastructure setup.<br><br>🌱 I’m currently learning backend software development, DevOps practices, and cloud computing tools like AWS and Kubernetes.<br><br>📊 Recent Project: Maintenance project involving web development, sensor data, and 3D mapping.<br><br>🎯 Goal: To become a software engineer and secure an internship to enhance my skills further.<br><br>💬 Ask me about full-stack web development, machine learning, DevOps, or cloud computing.<br><br>⚡ Fun fact: I enjoy blending analytical thinking with practical solutions—mainly to avoid breaking things, but hey, learning from failure is fun, right? 😅<br><br>📧 Feel free to reach out—I'm always happy to chat! 😊<br>Email: psnsharon@gmail.com<br><br>
+Hi there, I'm Sharon Shimon 👋<br><br>
+I'm a 3rd-year Computer Science student at the Holon Institute of Technology (HIT), passionate about machine learning, data science, software engineering, and DevOps. I enjoy blending analytical thinking with practical solutions and thrive on projects that challenge me to learn and grow.<br><br>
+🔭 Currently working on: Exploring new projects involving DevOps, cloud computing, and backend development.<br><br>
+👯 Looking to collaborate on: Projects that involve machine learning, backend systems, or DevOps automation.<br><br>
+🤝 Seeking help with: Advanced Kubernetes deployment strategies and cloud infrastructure setup to deepen my DevOps expertise.<br><br>
+🌱 Learning: Backend software development, DevOps practices, and cloud computing tools like AWS and Kubernetes.<br><br>
+📊 Recent Project: Maintenance project involving web development, sensor data, and 3D mapping.<br><br>
+🎯 Goal: To become a software engineer and secure an internship to enhance my skills further.<br><br>
+💬 Ask me about: Full-stack web development, machine learning, DevOps, or cloud computing.<br><br>
+⚡ Fun fact: I enjoy blending analytical thinking with practical solutions—mainly to avoid breaking things, but hey, learning from failure is fun, right? 😅<br><br>
+📧 Feel free to reach out—I'm always happy to chat! 😊<br>
+Email: psnsharon@gmail.com<br><br>
 
 
 ## 🌐 Socials:

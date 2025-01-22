@@ -1,5 +1,6 @@
 
-💫 About Me:
+#💫 About Me:
+
 Hi there, I'm Sharon Shimon 👋<br><br>
 I'm a 3rd-year Computer Science student at the Holon Institute of Technology (HIT), passionate about software engineering, machine learning, data science, and DevOps. I thrive on projects that challenge me to blend analytical thinking with practical solutions, and I’m always eager to learn and grow in the process.<br><br>
 🔭 I’m currently diving deep into: cloud computing, backend development, and exploring technologies like AWS, Kubernetes, and Docker for microservices apps.<br><br>

@@ -1,16 +1,16 @@
 
-#💫 About Me:
+## 💫 About Me:
 
 Hi there, I'm Sharon Shimon 👋<br><br>
-I'm a 3rd-year Computer Science student at the Holon Institute of Technology (HIT), passionate about software engineering, machine learning, data science, and DevOps. I thrive on projects that challenge me to blend analytical thinking with practical solutions, and I’m always eager to learn and grow in the process.<br><br>
-🔭 I’m currently diving deep into: cloud computing, backend development, and exploring technologies like AWS, Kubernetes, and Docker for microservices apps.<br><br>
-👯 I’m looking to collaborate on: Projects related to machine learning, backend systems, or DevOps automation.<br><br>
-🤝 I’m looking for help with: Advanced Kubernetes deployment strategies and cloud infrastructure setup to boost my DevOps skills.<br><br>
-🌱 I’m currently learning: Backend software development, DevOps practices, and cloud computing tools like AWS and Kubernetes, preparing for my AWS Certified Solutions Architect - Associate exam.<br><br>
+I'm a 3rd-year Computer Science student at the Holon Institute of Technology (HIT), passionate about software engineering and DevOps. I thrive on projects that challenge me to blend analytical thinking with practical solutions, always aiming to improve my skills and learn along the way.<br><br>
+🔭 I’m currently diving deep into: cloud computing, backend development, and DevOps practices with tools like AWS, Kubernetes, and Docker.<br><br>
+👯 I’m looking to collaborate on: Projects related to backend systems, microservices, and DevOps automation.<br><br>
+🤝 I’m looking for help with: Advanced Kubernetes deployment strategies and cloud infrastructure setup to enhance my DevOps expertise.<br><br>
+🌱 I’m currently learning: Backend software development, DevOps practices, and preparing for the AWS Certified Solutions Architect - Associate exam.<br><br>
 📊 Recent Project: Developing a microservices app using Docker, Kubernetes, and AWS.<br><br>
-🎯 Goal: To become a software engineer, secure an internship, and expand my expertise further in DevOps and cloud infrastructure.<br><br>
-💬 Ask me about: Full-stack web development, machine learning, DevOps, or cloud computing—I’m always happy to chat!<br><br>
-⚡ Fun fact: I enjoy solving problems, learning from failure, and making sure things run smoothly (most of the time)! 😅<br><br>
+🎯 Goal: To become a software engineer, secure an internship, and expand my expertise in DevOps and cloud infrastructure.<br><br>
+💬 Ask me about: DevOps, cloud computing, or software engineering—I’m always happy to chat!<br><br>
+⚡ Fun fact: I enjoy solving problems, learning from failure, and optimizing systems to ensure they run smoothly! 😅<br><br>
 📧 Feel free to reach out—I'm always happy to connect! 😊<br>
 Email: psnsharon@gmail.com<br><br>
 

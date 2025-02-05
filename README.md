@@ -1,18 +1,19 @@
 
 ## 💫 About Me:
 
-Hi there, I'm Sharon Shimon 👋<br><br>
-I'm a 3rd-year Computer Science student at the Holon Institute of Technology (HIT), passionate about software engineering and DevOps. I thrive on projects that challenge me to blend analytical thinking with practical solutions, always aiming to improve my skills and learn along the way.<br><br>
-🔭 I’m currently diving deep into: cloud computing, backend development, and DevOps practices with tools like AWS, Kubernetes, and Docker.<br><br>
-👯 I’m looking to collaborate on: Projects related to backend systems, microservices, and DevOps automation.<br><br>
-🤝 I’m looking for help with: Advanced Kubernetes deployment strategies and cloud infrastructure setup to enhance my DevOps expertise.<br><br>
-🌱 I’m currently learning: Backend software development, DevOps practices, and preparing for the AWS Certified Solutions Architect - Associate exam.<br><br>
-📊 Recent Project: Developing a microservices app using Docker, Kubernetes, and AWS.<br><br>
-🎯 Goal: To become a software engineer, secure an internship, and expand my expertise in DevOps and cloud infrastructure.<br><br>
-💬 Ask me about: DevOps, cloud computing, or software engineering—I’m always happy to chat!<br><br>
-⚡ Fun fact: I enjoy solving problems, learning from failure, and optimizing systems to ensure they run smoothly! 😅<br><br>
-📧 Feel free to reach out—I'm always happy to connect! 😊<br>
-Email: psnsharon@gmail.com<br><br>
+Hi, I'm Sharon Shimon 👋<br><br>
+
+I'm a 3rd-year Computer Science student at HIT, passionate about backend development and system design. I enjoy solving complex problems and building scalable, efficient systems.<br><br>
+🔭 Currently exploring: Backend development, system design, microservices, and scalable APIs using Python.<br><br>
+👯 Looking to collaborate on: Microservices, API development, and scalable architectures.<br><br>
+🤝 Seeking help with: Advanced system design and building fault-tolerant architectures for large-scale systems.<br><br>
+🌱 Learning: Microservices architecture and optimizing backend systems with Python.<br><br>
+📊 Recent Project: Designing a microservices app with Docker and Python to optimize API performance and inter-service communication. Focused on building efficient, scalable APIs using Python’s best practices.<br><br>
+🎯 Goal: To become a software engineer, deepen my backend expertise, and work on scalable, reliable systems.<br><br>
+💬 Ask me about: Backend development, microservices, system design, and building scalable APIs.<br><br>
+⚡ Fun fact: I love optimizing backend systems so much, that I even try to optimize my coffee brewing process for maximum efficiency! ☕<br><br>
+
+📧 Let’s connect: Reach out to me at psnsharon@gmail.com!<br><br>
 
 
 ## 🌐 Socials:
